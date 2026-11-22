@@ -1,0 +1,16 @@
+return_id,customer_email,sku,return_qty,return_date,reason,original_order_ref
+RT-0001,anandcaterers@example.com,KK-008,1,2026-09-06,Damaged on arrival,SO-1007
+RT-0002,patelbrothersretail@example.com,KK-009,1,2026-10-13,Changed mind,
+RT-0003,raoandsons@example.com,KK-007,2,2026-10-09,Missing parts,
+RT-0004,hariommart@example.com,KK-003,2,2026-09-18,Missing parts,SO-1062
+RT-0005,lakshmistores@example.com,KK-007,2,2026-09-17,Wrong item sent,
+RT-0006,hariommart@example.com,KK-008,1,2026-09-29,Missing parts,SO-1053
+RT-0007,greenleafhotel@example.com,KK-004,4,2026-09-24,Wrong item sent,SO-1063
+RT-0008,citykitchenco@example.com,KK-010,4,2026-09-12,Wrong item sent,SO-1067
+RT-0009,metrohardware@example.com,KK-007,5,2026-10-02,Missing parts,
+RT-0010,metrohardware@example.com,KK-006,1,2026-10-22,Not as described,SO1022
+RT-0011,sharmatraders@example.com,KK-006,2,2026-09-17,Wrong item sent,SO-1044
+RT-0012,metrohardware@example.com,KK-007,1,2026-09-13,Not as described,SO-1079
+RT-0013,hariommart@example.com,KK-010,1,2026-10-28,Changed mind,SO-1002
+RT-0014,blueoceancafe@example.com,KK-007,1,2026-10-11,Changed mind,SO-1008
+RT-0015,lakshmistores@example.com,KK-005,1,2026-10-05,Changed mind,SO1029

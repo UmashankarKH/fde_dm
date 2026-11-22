@@ -1,0 +1,12 @@
+# Secrets and local settings: never commit these
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local data exports you should not commit
+*.log
