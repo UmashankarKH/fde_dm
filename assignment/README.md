@@ -27,15 +27,9 @@ assignment/
 ├── data_learners/                   the four team data folders (learners)
 ├── starter_repo/                    the GitHub repository template (learners)
 ├── code/
-│   └── generate_team_data.py        regenerates the dummy data (instructor)
-└── instructor/                      answer key and notes (instructor only, do not share)
+    └── generate_team_data.py        regenerates the dummy data (instructor)
 ```
 
-## For instructors
-
-- Regenerate the data at any time with `python code/generate_team_data.py data_learners`. The seed is fixed, so the data and the answer key stay the same.
-- Do not share the `instructor/` folder with learners. Remove it from any zip you give them.
-- Before you share the kit, check that `data_learners/` contains only dummy data, and that no `.env` file or secret has been added.
 
 ## Important rules for learners (summary)
 
